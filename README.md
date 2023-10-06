@@ -18,3 +18,9 @@ source env/bin/activate # for macOS
 OR:
 conda activate env/
 ```
+
+# To install as required packages
+
+```
+pip install -r requirements.txt
+```
